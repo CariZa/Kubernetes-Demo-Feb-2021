@@ -1,4 +1,34 @@
 # Kubernetes-Demo-Feb-2021
+
+## Dependencies
+
+kubectl 
+
+https://kubernetes.io/docs/tasks/tools/install-kubectl/
+
+minikube
+
+https://minikube.sigs.k8s.io/docs/start/
+
+kind
+
+https://kind.sigs.k8s.io/docs/user/quick-start/
+
+gcloud
+
+https://cloud.google.com/sdk/docs/install
+
+kubectx 
+
+https://github.com/ahmetb/kubectx
+
+kns
+
+https://github.com/blendle/kns
+
+
+## Demo
+
 The commands I'd like to run through for the demo
 
 Still a work in progress :) not final - many changes to come
